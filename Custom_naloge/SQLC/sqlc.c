@@ -144,7 +144,7 @@ int main(){
 
     //zadnji PRINT
     for(int i=0;i<nDrzav;i++){
-        printf("%s %s %s %s\n", podatki[najmlajsi[i]][ix_name], podatki[najmlajsi[i]][ix_country],podatki[najmlajsi[i]][ix_date]);
+        printf("%s %s %s\n", podatki[najmlajsi[i]][ix_name], podatki[najmlajsi[i]][ix_country],podatki[najmlajsi[i]][ix_date]);
     }
 
 
