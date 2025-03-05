@@ -1,0 +1,17 @@
+abrakadabrasimsa
+abrakadabrasims|a
+abrakadabrasim|sa
+abrakadabrasi|msa
+abrakadabras|imsa
+abrakadabra|simsa
+abrakadabr|asimsa
+abrakadab|rasimsa
+abrakada|brasimsa
+abrakad|abrasimsa
+abraka|dabrasimsa
+abrak|adabrasimsa
+abra|kadabrasimsa
+abr|akadabrasimsa
+ab|rakadabrasimsa
+a|brakadabrasimsa
+16
